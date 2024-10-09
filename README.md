@@ -1,7 +1,3 @@
 ClassStory
 
-##kgb
-
-###subchaper1
-
-####this is the story of L1
+kgb this is the story of L1
